@@ -1,0 +1,1 @@
+java -jar /opt/antlr-4.11.1-complete.jar MiniC.g4 -Dlanguage=Python3 -visitor -no-listener

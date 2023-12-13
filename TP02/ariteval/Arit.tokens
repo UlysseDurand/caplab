@@ -1,0 +1,12 @@
+COMMENT=1
+ID=2
+PLUS=3
+TIMES=4
+LPAR=5
+RPAR=6
+INT=7
+WS=8
+'+'=3
+'*'=4
+'('=5
+')'=6
