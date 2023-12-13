@@ -1,8 +1,9 @@
-# cap-labs 2023: Public files for ENSL M1 students (CAP course)
+# cap-labs 2023: from CAP course, ENSL M1 Students
 
-![ensllogo](logos/logo_ensl.png)
+ALL COMES FROM HERE : https://github.com/Drup/cap-lab23
 
-## [Planning, with links to slides, lab subjects, ...](PLANNING.md)
+This is a copy of the repository plus what I did in the TPs (MiniC compiler) minus the infos about the exams, grades, etc...
+
 
 ## Course
 
@@ -10,17 +11,7 @@
   - Gabriel Radanne, Inria, LIP https://gabriel.radanne.net/
   - Ludovic Henrio, CNRS, LIP https://lhenrio.github.io/
 
-* Visio (for co-modal): https://webconference2.ens-lyon.fr/b/gab-by3-zmw-11m
-* Page on the "portail des études ENSL" : https://etudes.ens-lyon.fr/course/view.php?id=5673
-* Discord Channel: https://discord.com/channels/691214205692542976/771392543853117460
 * Covid Era's video courses: https://www.youtube.com/playlist?list=PLtjm-n_Ts-J-6EU1WfVIWLhl1BUUR-Sqm
-
-## Get the repository
-
-```
-git clone https://github.com/Drup/cap-lab23.git
-cd cap-lab23
-```
 
 ## Contents
 
@@ -35,18 +26,8 @@ The directory contains [instructions](INSTALL.md) to install a compiler and a si
 
 Gabriel Radanne, Inria, LIP [email](mailto:gabriel.radanne@ens-lyon.fr)
 
-## Exam 
 
-* MCC (final grade computation) : 
-```
-let ccgrade = average(Lab3, Lab4, Lab5, partial)
-in (finalnote + ccgrade)/2
-```
-* The partial exam is this academic year replaced by a written housework ("DM").
-
-* The final exam will be done "physically" in January. It will last three (3) hours. No authorized documents.
-
-## Contributors
+## Contributors (Who made the course and the base repository)
 
   * Labs (ENSL 2019 version): Laure Gonnord, Ludovic Henrio, Matthieu Moy, Marc de Vismes
   * 2020 : Gabriel Radanne, Paul Iannetta
