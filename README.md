@@ -1,6 +1,8 @@
 # cap-labs 2023: from CAP course, ENSL M1 Students
 
-ALL COMES FROM HERE : https://github.com/Drup/cap-lab23
+This project was about making a compiler of the MiniC language (a subset of C) in Python.
+
+Everything comes from here : https://github.com/Drup/cap-lab23
 
 This is a copy of the repository plus what I did in the practicals (MiniC compiler) minus the infos about the exams, grades, etc...
 
