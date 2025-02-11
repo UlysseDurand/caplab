@@ -2,7 +2,7 @@
 
 ALL COMES FROM HERE : https://github.com/Drup/cap-lab23
 
-This is a copy of the repository plus what I did in the TPs (MiniC compiler) minus the infos about the exams, grades, etc...
+This is a copy of the repository plus what I did in the practicals (MiniC compiler) minus the infos about the exams, grades, etc...
 
 
 ## Course
