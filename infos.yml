@@ -1,0 +1,2 @@
+date: 2023
+summary: Written in Python, uses ANTLR4 for lexing and parsing and implements three-address code generation, liveness analysis, CFG, SSA, Smart Register Allocation, Conditional Constant Propagation
